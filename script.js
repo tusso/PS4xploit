@@ -3,7 +3,7 @@ function isInArray(value, array) {
 }
 
 function updatePage(title, header, buttons) {
-  document.title = "Hakkuraifu | PS4 Exploit Host";
+  document.title = "HAKKURAIFU | PS4 Exploit Host";
   document.getElementById("title").innerHTML = title;
   document.getElementById("header").innerHTML = header;
   document.getElementById("buttons").innerHTML = buttons;
@@ -11,7 +11,7 @@ function updatePage(title, header, buttons) {
 
 function resetPage() {
   history.pushState("", document.title, window.location.pathname + window.location.search);
-  updatePage("Hakkuraifu | PS4 Exploit Host", "Firmware", firmwares);
+  updatePage("HAKKURAIFU | PS4 Exploit Host", "Choose Firmware", firmwares);
 }
 
 function getFirmwares() {
@@ -26,12 +26,12 @@ function getFirmwares() {
   }
   var firmwares = "";
   x = 0;
-  for (var i = 0, len = data["Firmware"].length; i < len; i++) {
+  for (var i = 0, len = data["Choose Firmware"].length; i < len; i++) {
     x += 1;
-    if (currentFirmware == data["Firmware"][i]) {
-      firmwares += "<a href=\"#" + data["Firmware"][i] + "\"><button class=\"btn btn-main\">" + data["Firmware"][i] + "</button></a>";
+    if (currentFirmware == data["Choose Firmware"][i]) {
+      firmwares += "<a href=\"#" + data["Choose Firmware"][i] + "\"><button class=\"btn btn-main\">" + data["Choose Firmware"][i] + "</button></a>";
     } else {
-      firmwares += "<a href=\"#" + data["Firmware"][i] + "\"><button class=\"btn btn-disabled\">" + data["Firmware"][i] + "</button></a>";
+      firmwares += "<a href=\"#" + data["Choose Firmware"][i] + "\"><button class=\"btn btn-disabled\">" + data["Choose Firmware"][i] + "</button></a>";
     }
     if (x >= 3) {
       firmwares += "<br>";

@@ -10,13 +10,11 @@ nav ul {
 }
 
 body {
-    background-image: url('./image.png');
-    background-position: right bottom;
+    background-image: url('./Wallpaper.gif');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    min-height: 100%;
-    background-size: 300px;
     background-color: black;
+    background-size: 100%;
 }
 
 #wrapper {
@@ -25,8 +23,7 @@ body {
 
 #contentHeader {
     padding: 20px 40px;
-    background: indigo;
-    border-top: 1px solid #6392b1;
+
     border-radius: 5px;
 }
 #content {
@@ -49,7 +46,7 @@ body {
 h1 {
     font-size: 200%;
     color:#ac0081;
-    font-family: "Fantasy", Fantasy, serif;
+    font-family: 'Allerta Stencil'; font-size: 50px;
     text-align: center;
 }
 
@@ -57,9 +54,9 @@ h2 {
     font-size: 135%;
     letter-spacing: 2px;
     font-weight: bold;
-    border-bottom: 10px solid #3f0088;
     margin-bottom: 10px;
     color: white;
+    visibility: hidden;
 }
 
 h3 {
@@ -78,23 +75,7 @@ h4 {
     border-left: 5px solid #9EC9E1;
     margin-bottom: 1em;
 }
-.about {
-    font-size: large;
-    color: #fff;
-    text-decoration: none;
-    position: absolute;
-    right: 30px;
-    top: 100px;
-}
 
-.GE {
-    font-size: large;
-    color: #fff;
-    text-decoration: none;
-    position: absolute;
-    left: 25px;
-    top: 100px;
-}
 
 .FE {
     font-size: large;
@@ -103,67 +84,48 @@ h4 {
     position: absolute;
     left: 135px;
     top: 100px;
+    visibility: hidden;
 }
 
 ul.default {
     list-style: disc outside;
     margin-bottom: 8em;
-    overflow-y: scroll
+    overflow-y: scroll;
+    margin-left: auto;
+    margin-right: auto;
 }
 ul.default li {
-    margin-left: 1em;
-    padding-left: 0;
-    overflow-y: scroll
+    overflow-y: scroll;
+    margin-left: auto;
+    margin-right: auto;
 }
 .btn {
-    padding: 15px 25px;
+    padding: 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 20px;
-    margin: 10px 5px;
+    margin: 15px 57px;
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
     cursor: pointer;
+    width: 100%;
 }
 .btn-disabled {
-    width: 325px;
+    width: 25%;
     background-color: #777777;
     color: white;
     border-radius: 15px;
 }
 .btn-main {
-    width: 325px;
+    width: 25%;
     background-color: indigo;
     color: white;
     border-radius: 15px;
 }
 .btn-main:hover {
-    width: 325px;
+    width: 25%;
     background-color: indianred;
     color: white;
     border-radius: 20px;
 }
-
-/*
-Copyright (c) 2017-2018 Al Azif, https://github.com/Al-Azif/ps4-exploit-host
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-*/
