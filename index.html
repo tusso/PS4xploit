@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html manifest="./offline.manifest">
 <head>
+  <script>
+    function DLProgress(e){Percent=(Math.round(e.loaded / e.total * 100));document.title="Installing offline cache: " + Percent + "%";}
+    function DisplayCacheProgress(){setTimeout(function(){;document.title="Cache Sucess !";},1000);setTimeout(function(){document.title="Please close and re-open the browser";},3000);}window.applicationCache.addEventListener("progress",DLProgress,false);window.applicationCache.oncached=function(e){DisplayCacheProgress();};window.applicationCache.onupdateready=function(e){DisplayCacheProgress();};
+</script>
 <meta charset="utf-8">
 <title>*</title>
 <link rel="stylesheet" href="./style.css">
 <script src="./script.js"></script>
 <script>
-var data = JSON.parse('{"Choose Firmware": ["1.01", "1.76", "4.05", "4.55", "5.05", "6.72", "7.02"], "1.01": ["Playground", "[Back]"], "1.76": ["Playground", "[Back]"], "4.05": ["Enable Updates", "[Back]"], "4.55": ["Enable-Updates", "[Back]"], "5.05": ["App2USB", "Backup", "Disable Updates", "Dumper", "Enable Updates", "FTP", "HEN", "Linux Loader", "Mira+HEN", "Original", "reactPSPlus", "[Back]"], "6.72": ["Jailbreak", "JailbreakOld", "[Back]"], "7.02": ["HEN", "FTP", "Dumper", "App2USB", "Disable Update", "Enable Update", "History blocker", "Kernel clock", "BinLoader", "Backup", "Restore", "Enable browser", "todex", "[Back]"], "Host_Version": "0.4.5"}');
+var data = JSON.parse('{"Choose Firmware": ["1.01", "1.76", "4.05", "4.55", "5.05", "6.72", "7.02"], "1.01": ["Playground", "[Back]"], "1.76": ["Playground", "[Back]"], "4.05": ["Enable Updates", "[Back]"], "4.55": ["Enable-Updates", "[Back]"], "5.05": ["App2USB", "Backup", "Disable-Updates", "Dumper", "Enable-Updates", "FTP", "HEN", "Linux-Loader", "Mira+HEN", "Original", "reactPSPlus", "[Back]"], "6.72": ["Jailbreak", "JailbreakOld", "[Back]"], "7.02": ["HEN", "FTP", "Dumper", "App2USB", "Disable-Updates", "Enable-Updates", "History-Blocker", "Kernel-Clock", "BinLoader", "Backup", "Restore", "Enable-Browser", "todex", "[Back]"], "Host_Version": "0.4.5"}');
 var exploitBase = "/exploits/";
 
 var firmwares = getFirmwares();
