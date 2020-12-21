@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v3
-# 20/12/2020-19:20
+# 21/12/2020-13:40
 
 
 CACHE:
@@ -67,7 +67,8 @@ offline/exploits/FirmwareExploit/7.02/Restore/Restore.js
 offline/exploits/FirmwareExploit/7.02/todex/index.html
 offline/exploits/FirmwareExploit/7.02/todex/todex.js
 
-
+offline/exploits/FirmwareExploit/7.02/CE-30391-6_Fix/index.html
+offline/exploits/FirmwareExploit/7.02/CE-30391-6_Fix/ce-30391-6_fix.js
 
 offline/exploits/FirmwareExploit/7.02/int64.js
 offline/exploits/FirmwareExploit/7.02/ps4.js
