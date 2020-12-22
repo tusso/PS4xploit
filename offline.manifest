@@ -1,82 +1,84 @@
 CACHE MANIFEST 
 # v3
-# 21/12/2020-13:40
+# 22/12/2020-20:40
 
 
 CACHE:
 
 index.html
-offline.html
-script.js
-style.css
-Wallpaper.gif
+js/script.js
+css/index.css
+Ressources/Wallpaper.gif
 
-offline/exploits/FirmwareExploit/5.05/App2USB/index.html
-offline/exploits/FirmwareExploit/5.05/Backup/index.html
-offline/exploits/FirmwareExploit/5.05/Disable-Updates/index.html
-offline/exploits/FirmwareExploit/5.05/Dumper/index.html
-offline/exploits/FirmwareExploit/5.05/Enable-Updates/index.html
-offline/exploits/FirmwareExploit/5.05/FTP/index.html
-offline/exploits/FirmwareExploit/5.05/HEN/index.html
-offline/exploits/FirmwareExploit/5.05/Linux-Loader/index.html
-offline/exploits/FirmwareExploit/5.05/Mira+HEN/index.html
-offline/exploits/FirmwareExploit/5.05/Original/index.html
-offline/exploits/FirmwareExploit/5.05/reactPSPlus/index.html
+exploits/FirmwareExploit/5.05/App2USB/index.html
+exploits/FirmwareExploit/5.05/Backup/index.html
+exploits/FirmwareExploit/5.05/Disable-Updates/index.html
+exploits/FirmwareExploit/5.05/Dumper/index.html
+exploits/FirmwareExploit/5.05/Enable-Updates/index.html
+exploits/FirmwareExploit/5.05/FTP/index.html
+exploits/FirmwareExploit/5.05/HEN/index.html
+exploits/FirmwareExploit/5.05/Linux-Loader/index.html
+exploits/FirmwareExploit/5.05/Mira+HEN/index.html
+exploits/FirmwareExploit/5.05/Original/index.html
+exploits/FirmwareExploit/5.05/reactPSPlus/index.html
 
 
-offline/exploits/FirmwareExploit/6.72/Jailbreak/index.html
+exploits/FirmwareExploit/6.72/Jailbreak/index.html
 
-offline/exploits/FirmwareExploit/7.02/App2USB/index.html
-offline/exploits/FirmwareExploit/7.02/App2USB/App2USB.js
+exploits/FirmwareExploit/7.02/App2USB/index.html
+exploits/FirmwareExploit/7.02/App2USB/App2USB.js
 
-offline/exploits/FirmwareExploit/7.02/Backup/index.html
-offline/exploits/FirmwareExploit/7.02/Backup/Backup.js
+exploits/FirmwareExploit/7.02/Backup/index.html
+exploits/FirmwareExploit/7.02/Backup/Backup.js
 
-offline/exploits/FirmwareExploit/7.02/BinLoader/index.html
+exploits/FirmwareExploit/7.02/BinLoader/index.html
 
-offline/exploits/FirmwareExploit/7.02/Disable-Updates/index.html
-offline/exploits/FirmwareExploit/7.02/Disable-Updates/Disable-Updates.js
+exploits/FirmwareExploit/7.02/Disable-Updates/index.html
+exploits/FirmwareExploit/7.02/Disable-Updates/Disable-Updates.js
 
-offline/exploits/FirmwareExploit/7.02/Dumper/index.html
-offline/exploits/FirmwareExploit/7.02/Dumper/Dumper.js
+exploits/FirmwareExploit/7.02/Dumper/index.html
+exploits/FirmwareExploit/7.02/Dumper/Dumper.js
 
-offline/exploits/FirmwareExploit/7.02/Enable-Browser/index.html
-offline/exploits/FirmwareExploit/7.02/Enable-Browser/Enable-Browser.js
+exploits/FirmwareExploit/7.02/Enable-Browser/index.html
+exploits/FirmwareExploit/7.02/Enable-Browser/Enable-Browser.js
 
-offline/exploits/FirmwareExploit/7.02/Enable-Updates/index.html
-offline/exploits/FirmwareExploit/7.02/Enable-Updates/Enable-Updates.js
+exploits/FirmwareExploit/7.02/Enable-Updates/index.html
+exploits/FirmwareExploit/7.02/Enable-Updates/Enable-Updates.js
 
-offline/exploits/FirmwareExploit/7.02/FTP/index.html
-offline/exploits/FirmwareExploit/7.02/FTP/FTP.js
+exploits/FirmwareExploit/7.02/FTP/index.html
+exploits/FirmwareExploit/7.02/FTP/FTP.js
 
-offline/exploits/FirmwareExploit/7.02/Mira/index.html
-offline/exploits/FirmwareExploit/7.02/Mira/Mira.js
+exploits/FirmwareExploit/7.02/Mira/index.html
+exploits/FirmwareExploit/7.02/Mira/Mira.js
 
-offline/exploits/FirmwareExploit/7.02/HEN/index.html
-offline/exploits/FirmwareExploit/7.02/HEN/HEN.js
+exploits/FirmwareExploit/7.02/HEN/index.html
+exploits/FirmwareExploit/7.02/HEN/HEN.js
 
-offline/exploits/FirmwareExploit/7.02/History-Blocker/index.html
-offline/exploits/FirmwareExploit/7.02/History-Blocker/History-Blocker.js
+exploits/FirmwareExploit/7.02/History-Blocker/index.html
+exploits/FirmwareExploit/7.02/History-Blocker/History-Blocker.js
 
-offline/exploits/FirmwareExploit/7.02/Kernel-Clock/index.html
-offline/exploits/FirmwareExploit/7.02/Kernel-Clock/Kernel-Clock.js
+exploits/FirmwareExploit/7.02/Kernel-Clock/index.html
+exploits/FirmwareExploit/7.02/Kernel-Clock/Kernel-Clock.js
 
-offline/exploits/FirmwareExploit/7.02/Restore/index.html
-offline/exploits/FirmwareExploit/7.02/Restore/Restore.js
+exploits/FirmwareExploit/7.02/Restore/index.html
+exploits/FirmwareExploit/7.02/Restore/Restore.js
 
-offline/exploits/FirmwareExploit/7.02/todex/index.html
-offline/exploits/FirmwareExploit/7.02/todex/todex.js
+exploits/FirmwareExploit/7.02/todex/index.html
+exploits/FirmwareExploit/7.02/todex/todex.js
 
-offline/exploits/FirmwareExploit/7.02/CE-30391-6_Fix/index.html
-offline/exploits/FirmwareExploit/7.02/CE-30391-6_Fix/ce-30391-6_fix.js
+exploits/FirmwareExploit/7.02/CE-30391-6_Fix/index.html
+exploits/FirmwareExploit/7.02/CE-30391-6_Fix/ce-30391-6_fix.js
 
-offline/exploits/FirmwareExploit/7.02/int64.js
-offline/exploits/FirmwareExploit/7.02/ps4.js
-offline/exploits/FirmwareExploit/7.02/utils.js
-offline/exploits/FirmwareExploit/7.02/702.js
-offline/exploits/FirmwareExploit/7.02/jb702/c-code.js
-offline/exploits/FirmwareExploit/7.02/mira702/c-code.js
-offline/exploits/FirmwareExploit/7.02/mira702/mira.js
+exploits/FirmwareExploit/7.02/int64.js
+exploits/FirmwareExploit/7.02/ps4.js
+exploits/FirmwareExploit/7.02/utils.js
+exploits/FirmwareExploit/7.02/702.js
+exploits/FirmwareExploit/7.02/jb702/c-code.js
+exploits/FirmwareExploit/7.02/mira702/c-code.js
+exploits/FirmwareExploit/7.02/mira702/mira.js
 
 NETWORK:
 *
+
+FALLBACK:
+index.html
