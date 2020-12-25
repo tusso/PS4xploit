@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v3
-# 25/12/2020-11:42
+# 25/12/2020-14:50
 
 
 CACHE:
@@ -78,6 +78,14 @@ exploits/FirmwareExploit/7.02/BinLoader-ChendoChap/ps4.js
 exploits/FirmwareExploit/7.02/BinLoader-ChendoChap/rop.js
 exploits/FirmwareExploit/7.02/BinLoader-ChendoChap/utils.js
 exploits/FirmwareExploit/7.02/BinLoader-ChendoChap/userland.js
+
+exploits/FirmwareExploit/7.02/PS4Debug/index.html
+exploits/FirmwareExploit/7.02/PS4Debug/int64.js
+exploits/FirmwareExploit/7.02/PS4Debug/ps4.js
+exploits/FirmwareExploit/7.02/PS4Debug/rop.js
+exploits/FirmwareExploit/7.02/PS4Debug/utils.js
+exploits/FirmwareExploit/7.02/PS4Debug/userland.js
+exploits/FirmwareExploit/7.02/PS4Debug/payload.js
 
 
 exploits/FirmwareExploit/7.02/int64.js
