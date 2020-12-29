@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v3
-# 26/12/2020-07:50
+# 29/12/2020-20:50
 
 CACHE:
 
@@ -49,6 +49,9 @@ exploits/FirmwareExploit/7.02/FTP/FTP.js
 
 exploits/FirmwareExploit/7.02/Mira/index.html
 exploits/FirmwareExploit/7.02/Mira/Mira.js
+
+exploits/FirmwareExploit/7.02/Mira-Beta/index.html
+exploits/FirmwareExploit/7.02/Mira-Beta/Mira.js
 
 exploits/FirmwareExploit/7.02/HEN/index.html
 exploits/FirmwareExploit/7.02/HEN/HEN.js
