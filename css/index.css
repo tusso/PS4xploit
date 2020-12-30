@@ -5,7 +5,7 @@
   
   body {
     min-height: 100vh;
-    background-size: auto 150%;
+    background-size: auto+5% 200%;
     background-position: var(--mouseX) var(--mouseY);
     background-repeat: no-repeat;
     background-image: url('../Ressources/Wallpaper.gif');
