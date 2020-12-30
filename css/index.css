@@ -1,11 +1,11 @@
 :root {
-    --mouseX: 50%;
-    --mouseY: 50%;
+    --mouseX: 40%;
+    --mouseY: 40%;
   }
   
   body {
     min-height: 100vh;
-    background-size: 200% 200%;
+    background-size: auto 200%;
     background-position: var(--mouseX) var(--mouseY);
     background-repeat: no-repeat;
     background-image: url('../Ressources/Wallpaper.gif');
