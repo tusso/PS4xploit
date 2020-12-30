@@ -100,6 +100,7 @@ exploits/FirmwareExploit/7.02/702.js
 exploits/FirmwareExploit/7.02/jb702/c-code.js
 exploits/FirmwareExploit/7.02/mira702/c-code.js
 exploits/FirmwareExploit/7.02/mira702/mira.js
+exploits/FirmwareExploit/7.02/mira702/miranew.js
 
 NETWORK:
 *
