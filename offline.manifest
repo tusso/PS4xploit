@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v3
-# 22/01/2021-00:50
+# 06/02/2021-20:50
 
 CACHE:
 
@@ -58,6 +58,9 @@ exploits/FirmwareExploit/7.02/Mira-Beta/mirabeta.js
 
 exploits/FirmwareExploit/7.02/HEN/index.html
 exploits/FirmwareExploit/7.02/HEN/HEN.js
+
+exploits/FirmwareExploit/7.02/HEN-Beta/index.html
+exploits/FirmwareExploit/7.02/HEN-Beta/HEN.js
 
 exploits/FirmwareExploit/7.02/History-Blocker/index.html
 exploits/FirmwareExploit/7.02/History-Blocker/History-Blocker.js
@@ -118,6 +121,8 @@ exploits/FirmwareExploit/7.02/Fan-Speed/Payloads/90/90.js
 exploits/FirmwareExploit/7.02/Fan-Speed/Payloads/90/index.html
 
 
+exploits/FirmwareExploit/7.02/R.I.F-Renamer/rif-renamer.js
+exploits/FirmwareExploit/7.02/R.I.F-Renamer/index.html
 
 exploits/FirmwareExploit/7.02/BinLoader-ChendoChap/index.html
 exploits/FirmwareExploit/7.02/BinLoader-ChendoChap/int64.js
