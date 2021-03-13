@@ -64,7 +64,16 @@ function getFirmwares() {
     }
   }
   // similar behavior as clicking on a link
-  window.location.href = ".#" + currentFirmware;
+  if (currentFirmware == "7.55") {
+    window.location.href = ".#" + "7.50";
+  } else if (currentFirmware == "7.51") {
+    window.location.href = ".#" + "7.50";
+  } else if (currentFirmware == "9.99") {
+    window.alert("You are in spoof mod, please a firmware manually");
+  } else {
+    window.location.href = ".#" + currentFirmware;
+  }
+  
 
   
   return firmwares;

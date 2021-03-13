@@ -1,6 +1,6 @@
 CACHE MANIFEST 
-# v3
-# 06/02/2021-20:50
+# v4
+# 13/03/2021-11:50
 
 CACHE:
 
@@ -139,8 +139,6 @@ exploits/FirmwareExploit/7.02/PS4Debug/utils.js
 exploits/FirmwareExploit/7.02/PS4Debug/userland.js
 exploits/FirmwareExploit/7.02/PS4Debug/payload.js
 
-
-exploits/FirmwareExploit/7.02/int64.js
 exploits/FirmwareExploit/7.02/ps4.js
 exploits/FirmwareExploit/7.02/utils.js
 exploits/FirmwareExploit/7.02/702.js
@@ -149,8 +147,16 @@ exploits/FirmwareExploit/7.02/mira702/c-code.js
 exploits/FirmwareExploit/7.02/mira702/mira.js
 exploits/FirmwareExploit/7.02/mira702/miraold.js
 
-NETWORK:
-*
+exploits/FirmwareExploit/7.50/BinLoader/index.html
+exploits/FirmwareExploit/7.50/BinLoader/netcat.js
+
+exploits/FirmwareExploit/7.50/int64.js
+exploits/FirmwareExploit/7.50/jb.c
+exploits/FirmwareExploit/7.50/jb.js
+exploits/FirmwareExploit/7.50/blob.js
+exploits/FirmwareExploit/7.50/ps4.js
+exploits/FirmwareExploit/7.50/utils.js
+
 
 FALLBACK:
 index.html
