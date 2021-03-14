@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4
-# 14/03/2021-15:50
+# 14/03/2021-16:00
 
 CACHE:
 
@@ -151,7 +151,6 @@ exploits/FirmwareExploit/7.50/BinLoader/index.html
 exploits/FirmwareExploit/7.50/BinLoader/netcat.js
 
 exploits/FirmwareExploit/7.50/int64.js
-exploits/FirmwareExploit/7.50/jb.c
 exploits/FirmwareExploit/7.50/jb.js
 exploits/FirmwareExploit/7.50/blob.js
 exploits/FirmwareExploit/7.50/ps4.js
