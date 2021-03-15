@@ -156,16 +156,5 @@ Ressources/Wallpaper.gif
 
 
 
-./exploits/FirmwareExploit/7.50/int64.js
-./exploits/FirmwareExploit/7.50/blob.js
-./exploits/FirmwareExploit/7.50/ps4.js
-./exploits/FirmwareExploit/7.50/utils.js
-./exploits/FirmwareExploit/7.50/750.js
-./exploits/FirmwareExploit/7.50/jb750/c-code.js
-./exploits/FirmwareExploit/7.50/mira750/c-code.js
-./exploits/FirmwareExploit/7.50/mira750/mira.js
-./exploits/FirmwareExploit/7.50/mira750/mira2.js
-
-
 FALLBACK:
 index.html
