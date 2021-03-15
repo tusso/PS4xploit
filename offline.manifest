@@ -153,7 +153,47 @@ Ressources/Wallpaper.gif
 ./exploits/FirmwareExploit/7.50/Mira/index.html
 ./exploits/FirmwareExploit/7.50/Mira/Mira.js
 
+./exploits/FirmwareExploit/7.50/BinLoader/index.html
+./exploits/FirmwareExploit/7.50/BinLoader/netcat.js
 
+./exploits/FirmwareExploit/7.50/Mira/index.html
+./exploits/FirmwareExploit/7.50/Mira/Mira.js
+
+./exploits/FirmwareExploit/7.50/Disable-Updates/index.html
+./exploits/FirmwareExploit/7.50/Disable-Updates/disable-updates.js
+
+./exploits/FirmwareExploit/7.50/App-Dumper/index.html
+./exploits/FirmwareExploit/7.50/App-Dumper/dumper.js
+
+./exploits/FirmwareExploit/7.50/Module-Dumper/index.html
+./exploits/FirmwareExploit/7.50/Module-Dumper/dumper.js
+
+./exploits/FirmwareExploit/7.50/ToDex/index.html
+./exploits/FirmwareExploit/7.50/ToDex/todex.js
+
+./exploits/FirmwareExploit/7.50/FTP/index.html
+./exploits/FirmwareExploit/7.50/FTP/FTP.js
+
+./exploits/FirmwareExploit/7.50/Rif-Renamer/rif-renamer.js
+./exploits/FirmwareExploit/7.50/Rif-Renamer/index.html
+
+./exploits/FirmwareExploit/7.50/Restore/index.html
+./exploits/FirmwareExploit/7.50/Restore/restore.js
+
+./exploits/FirmwareExploit/7.50/History-Blocker/index.html
+./exploits/FirmwareExploit/7.50/History-Blocker/history-blocker.js
+
+./exploits/FirmwareExploit/7.50/App2USB/index.html
+./exploits/FirmwareExploit/7.50/App2USB/app2usb.js
+
+./exploits/FirmwareExploit/7.50/Backup/index.html
+./exploits/FirmwareExploit/7.50/Backup/backup.js
+
+./exploits/FirmwareExploit/7.50/Disable-Updates/index.html
+./exploits/FirmwareExploit/7.50/Disable-Updates/disable-updates.js
+
+./exploits/FirmwareExploit/7.50/Enable-Updates/index.html
+./exploits/FirmwareExploit/7.50/Enable-Updates/enable-updates.js
 
 
 FALLBACK:
