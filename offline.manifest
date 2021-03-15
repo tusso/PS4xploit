@@ -159,8 +159,8 @@ Ressources/Wallpaper.gif
 ./exploits/FirmwareExploit/7.50/FTP/index.html
 ./exploits/FirmwareExploit/7.50/FTP/FTP.js
 
-./exploits/FirmwareExploit/7.50/App2USB/index.html
-./exploits/FirmwareExploit/7.50/App2USB/app2usb.js
+./exploits/FirmwareExploit/7.50/Disable-Updates/index.html
+./exploits/FirmwareExploit/7.50/Disable-Updates/disable-updates.js
 
 FALLBACK:
 index.html
