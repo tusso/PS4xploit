@@ -177,8 +177,8 @@ Ressources/Wallpaper.gif
 ./exploits/FirmwareExploit/7.50/EnableUpdates/index.html
 ./exploits/FirmwareExploit/7.50/EnableUpdates/enable-updates.js
 
-./exploits/FirmwareExploit/7.50/App2Usb/index.html
-./exploits/FirmwareExploit/7.50/App2Usb/app2usb.js
+./exploits/FirmwareExploit/7.50/AppToUsb/index.html
+./exploits/FirmwareExploit/7.50/AppToUsb/app2usb.js
 
 ./exploits/FirmwareExploit/7.50/BackupDB/index.html
 ./exploits/FirmwareExploit/7.50/BackupDB/backup.js
