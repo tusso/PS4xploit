@@ -150,6 +150,24 @@ exploits/FirmwareExploit/7.02/mira702/miraold.js
 exploits/FirmwareExploit/7.50/BinLoader/index.html
 exploits/FirmwareExploit/7.50/BinLoader/netcat.js
 
+exploits/FirmwareExploit/7.50/Mira/index.html
+exploits/FirmwareExploit/7.50/Mira/Mira.js
+
+exploits/FirmwareExploit/7.50/Disable-Updates/index.html
+exploits/FirmwareExploit/7.50/Disable-Updates/Disable-Updates.js
+
+exploits/FirmwareExploit/7.50/App-Dumper/index.html
+exploits/FirmwareExploit/7.50/App-Dumper/Dumper.js
+
+exploits/FirmwareExploit/7.50/Module-Dumper/index.html
+exploits/FirmwareExploit/7.50/Module-Dumper/Dumper.js
+
+exploits/FirmwareExploit/7.50/todex/index.html
+exploits/FirmwareExploit/7.50/todex/todex.js
+
+exploits/FirmwareExploit/7.02/FTP/index.html
+exploits/FirmwareExploit/7.02/FTP/FTP.js
+
 exploits/FirmwareExploit/7.50/int64.js
 exploits/FirmwareExploit/7.50/jb.js
 exploits/FirmwareExploit/7.50/blob.js
