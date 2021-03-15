@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4
-# 15/03/2021-17:38
+# 15/03/2021-18:00
 
 CACHE:
 
@@ -162,8 +162,8 @@ exploits/FirmwareExploit/7.50/App-Dumper/Dumper.js
 exploits/FirmwareExploit/7.50/Module-Dumper/index.html
 exploits/FirmwareExploit/7.50/Module-Dumper/Dumper.js
 
-exploits/FirmwareExploit/7.50/todex/index.html
-exploits/FirmwareExploit/7.50/todex/todex.js
+exploits/FirmwareExploit/7.50/ToDex/index.html
+exploits/FirmwareExploit/7.50/ToDex/todex.js
 
 exploits/FirmwareExploit/7.50/FTP/index.html
 exploits/FirmwareExploit/7.50/FTP/FTP.js
