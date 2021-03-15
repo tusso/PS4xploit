@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4
-# 15/03/2021-18:00
+# 15/03/2021-18:10
 
 CACHE:
 
@@ -154,13 +154,13 @@ exploits/FirmwareExploit/7.50/Mira/index.html
 exploits/FirmwareExploit/7.50/Mira/Mira.js
 
 exploits/FirmwareExploit/7.50/Disable-Updates/index.html
-exploits/FirmwareExploit/7.50/Disable-Updates/Disable-Updates.js
+exploits/FirmwareExploit/7.50/Disable-Updates/disable-updates.js
 
 exploits/FirmwareExploit/7.50/App-Dumper/index.html
-exploits/FirmwareExploit/7.50/App-Dumper/Dumper.js
+exploits/FirmwareExploit/7.50/App-Dumper/dumper.js
 
 exploits/FirmwareExploit/7.50/Module-Dumper/index.html
-exploits/FirmwareExploit/7.50/Module-Dumper/Dumper.js
+exploits/FirmwareExploit/7.50/Module-Dumper/dumper.js
 
 exploits/FirmwareExploit/7.50/ToDex/index.html
 exploits/FirmwareExploit/7.50/ToDex/todex.js
