@@ -9,19 +9,6 @@ js/script.js
 css/index.css
 Ressources/Wallpaper.gif
 
-./exploits/FirmwareExploit/5.05/App2USB/index.html
-./exploits/FirmwareExploit/5.05/Backup/index.html
-./exploits/FirmwareExploit/5.05/Disable-Updates/index.html
-./exploits/FirmwareExploit/5.05/Dumper/index.html
-./exploits/FirmwareExploit/5.05/Enable-Updates/index.html
-./exploits/FirmwareExploit/5.05/FTP/index.html
-./exploits/FirmwareExploit/5.05/HEN/index.html
-./exploits/FirmwareExploit/5.05/Linux-Loader/index.html
-./exploits/FirmwareExploit/5.05/Mira+HEN/index.html
-./exploits/FirmwareExploit/5.05/Original/index.html
-./exploits/FirmwareExploit/5.05/reactPSPlus/index.html
-
-
 ./exploits/FirmwareExploit/6.72/Jailbreak/index.html
 
 ./exploits/FirmwareExploit/7.02/App2USB/index.html
