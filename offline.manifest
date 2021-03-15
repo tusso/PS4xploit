@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4
-# 14/03/2021-23:13
+# 15/03/2021-17:05
 
 CACHE:
 
@@ -165,8 +165,31 @@ exploits/FirmwareExploit/7.50/Module-Dumper/Dumper.js
 exploits/FirmwareExploit/7.50/todex/index.html
 exploits/FirmwareExploit/7.50/todex/todex.js
 
-exploits/FirmwareExploit/7.02/FTP/index.html
-exploits/FirmwareExploit/7.02/FTP/FTP.js
+exploits/FirmwareExploit/7.50/FTP/index.html
+exploits/FirmwareExploit/7.50/FTP/FTP.js
+
+exploits/FirmwareExploit/7.50/Rif-Renamer/rif-renamer.js
+exploits/FirmwareExploit/7.50/Rif-Renamer/index.html
+
+exploits/FirmwareExploit/7.50/Restore/index.html
+exploits/FirmwareExploit/7.50/Restore/restore.js
+
+exploits/FirmwareExploit/7.50/History-Blocker/index.html
+exploits/FirmwareExploit/7.50/History-Blocker/history-blocker.js
+
+exploits/FirmwareExploit/7.50/App2USB/index.html
+exploits/FirmwareExploit/7.50/App2USB/app2usb.js
+
+exploits/FirmwareExploit/7.50/Backup/index.html
+exploits/FirmwareExploit/7.50/Backup/backup.js
+
+exploits/FirmwareExploit/7.50/Disable-Updates/index.html
+exploits/FirmwareExploit/7.50/Disable-Updates/disable-updates.js
+
+exploits/FirmwareExploit/7.50/Enable-Updates/index.html
+exploits/FirmwareExploit/7.50/Enable-Updates/enable-updates.js
+
+
 
 exploits/FirmwareExploit/7.50/int64.js
 exploits/FirmwareExploit/7.50/jb.js
