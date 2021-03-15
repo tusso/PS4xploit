@@ -171,17 +171,8 @@ Ressources/Wallpaper.gif
 ./exploits/FirmwareExploit/7.50/RifRenamer/rif-renamer.js
 ./exploits/FirmwareExploit/7.50/RifRenamer/index.html
 
-./exploits/FirmwareExploit/7.50/Restore/index.html
-./exploits/FirmwareExploit/7.50/Restore/restore.js
-
 ./exploits/FirmwareExploit/7.50/HistoryBlocker/index.html
 ./exploits/FirmwareExploit/7.50/HistoryBlocker/history-blocker.js
-
-./exploits/FirmwareExploit/7.50/App2USB/index.html
-./exploits/FirmwareExploit/7.50/App2USB/app2usb.js
-
-./exploits/FirmwareExploit/7.50/Backup/index.html
-./exploits/FirmwareExploit/7.50/Backup/backup.js
 
 ./exploits/FirmwareExploit/7.50/EnableUpdates/index.html
 ./exploits/FirmwareExploit/7.50/EnableUpdates/enable-updates.js
