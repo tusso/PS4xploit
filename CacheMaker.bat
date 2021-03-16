@@ -1,12 +1,8 @@
 @echo off
 
-for /F "tokens=2" %%i in ('date /t') do set mydate=%%i
-
-set mytime=%time%
-
 echo CACHE MANIFEST > test0.txt
 echo # v4 >> test0.txt
-echo # %mydate%:%mytime% >> test0.txt
+echo # %date%-%time% >> test0.txt
 echo. >> test0.txt
 echo. >> test0.txt
 echo CACHE: >> test0.txt
