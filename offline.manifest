@@ -151,12 +151,12 @@ Ressources/Wallpaper.gif
 ./exploits/FirmwareExploit/7.5x/BinLoader/index.html
 ./exploits/FirmwareExploit/7.5x/BinLoader/netcat.js
 
-./exploits/FirmwareExploit/7.5x/Mira-755/index.html
-./exploits/FirmwareExploit/7.5x/Mira-755/Mira.js
+./exploits/FirmwareExploit/7.5x/MiraFor755/index.html
+./exploits/FirmwareExploit/7.5x/MiraFor755/Mira.js
 
-./exploits/FirmwareExploit/7.5x/Mira-750/index.html
-./exploits/FirmwareExploit/7.5x/Mira-750/Mira.js
-./exploits/FirmwareExploit/7.5x/Mira-750/MiraLoader.js
+./exploits/FirmwareExploit/7.5x/MiraFor750/index.html
+./exploits/FirmwareExploit/7.5x/MiraFor750/Mira.js
+./exploits/FirmwareExploit/7.5x/MiraFor750/MiraLoader.js
 
 ./exploits/FirmwareExploit/7.5x/ToDex/index.html
 ./exploits/FirmwareExploit/7.5x/ToDex/todex.js
