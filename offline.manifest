@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 16/03/2021-22:27:12,48 
+# 16/03/2021-22:30:50,27 
 
 
 CACHE: 
@@ -232,8 +232,8 @@ exploits\FirmwareExploit\7.5x\BackupDB\backup.js
 exploits\FirmwareExploit\7.5x\BackupDB\index.html
 exploits\FirmwareExploit\7.5x\BinLoader\index.html
 exploits\FirmwareExploit\7.5x\BinLoader\netcat.js
-exploits\FirmwareExploit\7.5x\Disable-aslr\disable-aslr.js
-exploits\FirmwareExploit\7.5x\Disable-aslr\index.html
+exploits\FirmwareExploit\7.5x\DisableASLR\disable-aslr.js
+exploits\FirmwareExploit\7.5x\DisableASLR\index.html
 exploits\FirmwareExploit\7.5x\DisableUpdates\disable-updates.js
 exploits\FirmwareExploit\7.5x\DisableUpdates\index.html
 exploits\FirmwareExploit\7.5x\EnableBrowser\Enable-Browser.js
