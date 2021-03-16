@@ -1,6 +1,7 @@
 CACHE MANIFEST 
 # v4
-# 15/03/2021-18:10
+# 16/03/2021-09:10
+
 
 CACHE:
 
@@ -147,55 +148,59 @@ Ressources/Wallpaper.gif
 ./exploits/FirmwareExploit/7.02/mira702/mira.js
 ./exploits/FirmwareExploit/7.02/mira702/miraold.js
 
-./exploits/FirmwareExploit/7.50/BinLoader/index.html
-./exploits/FirmwareExploit/7.50/BinLoader/netcat.js
+./exploits/FirmwareExploit/7.5x/BinLoader/index.html
+./exploits/FirmwareExploit/7.5x/BinLoader/netcat.js
 
-./exploits/FirmwareExploit/7.50/Mira/index.html
-./exploits/FirmwareExploit/7.50/Mira/Mira.js
+./exploits/FirmwareExploit/7.5x/Mira-7.55/index.html
+./exploits/FirmwareExploit/7.5x/Mira-7.55/Mira.js
 
-./exploits/FirmwareExploit/7.50/ToDex/index.html
-./exploits/FirmwareExploit/7.50/ToDex/todex.js
+./exploits/FirmwareExploit/7.5x/Mira-7.50/index.html
+./exploits/FirmwareExploit/7.5x/Mira-7.50/Mira.js
+./exploits/FirmwareExploit/7.5x/Mira-7.50/MiraLoader.js
 
-./exploits/FirmwareExploit/7.50/FTP/index.html
-./exploits/FirmwareExploit/7.50/FTP/FTP.js
+./exploits/FirmwareExploit/7.5x/ToDex/index.html
+./exploits/FirmwareExploit/7.5x/ToDex/todex.js
 
-./exploits/FirmwareExploit/7.50/AppDumper/index.html
-./exploits/FirmwareExploit/7.50/AppDumper/dumper.js
+./exploits/FirmwareExploit/7.5x/FTP/index.html
+./exploits/FirmwareExploit/7.5x/FTP/FTP.js
 
-./exploits/FirmwareExploit/7.50/DisableUpdates/index.html
-./exploits/FirmwareExploit/7.50/DisableUpdates/disable-updates.js
+./exploits/FirmwareExploit/7.5x/AppDumper/index.html
+./exploits/FirmwareExploit/7.5x/AppDumper/dumper.js
 
-./exploits/FirmwareExploit/7.50/ModuleDumper/index.html
-./exploits/FirmwareExploit/7.50/ModuleDumper/dumper.js
+./exploits/FirmwareExploit/7.5x/DisableUpdates/index.html
+./exploits/FirmwareExploit/7.5x/DisableUpdates/disable-updates.js
 
-./exploits/FirmwareExploit/7.50/RifRenamer/rif-renamer.js
-./exploits/FirmwareExploit/7.50/RifRenamer/index.html
+./exploits/FirmwareExploit/7.5x/ModuleDumper/index.html
+./exploits/FirmwareExploit/7.5x/ModuleDumper/dumper.js
 
-./exploits/FirmwareExploit/7.50/HistoryBlocker/index.html
-./exploits/FirmwareExploit/7.50/HistoryBlocker/history-blocker.js
+./exploits/FirmwareExploit/7.5x/RifRenamer/rif-renamer.js
+./exploits/FirmwareExploit/7.5x/RifRenamer/index.html
 
-./exploits/FirmwareExploit/7.50/EnableUpdates/index.html
-./exploits/FirmwareExploit/7.50/EnableUpdates/enable-updates.js
+./exploits/FirmwareExploit/7.5x/HistoryBlocker/index.html
+./exploits/FirmwareExploit/7.5x/HistoryBlocker/history-blocker.js
 
-./exploits/FirmwareExploit/7.50/AppToUsb/index.html
-./exploits/FirmwareExploit/7.50/AppToUsb/app2usb.js
+./exploits/FirmwareExploit/7.5x/EnableUpdates/index.html
+./exploits/FirmwareExploit/7.5x/EnableUpdates/enable-updates.js
 
-./exploits/FirmwareExploit/7.50/BackupDB/index.html
-./exploits/FirmwareExploit/7.50/BackupDB/backup.js
+./exploits/FirmwareExploit/7.5x/AppToUsb/index.html
+./exploits/FirmwareExploit/7.5x/AppToUsb/app2usb.js
 
-./exploits/FirmwareExploit/7.50/RestoreDB/index.html
-./exploits/FirmwareExploit/7.50/RestoreDB/restore.js
+./exploits/FirmwareExploit/7.5x/BackupDB/index.html
+./exploits/FirmwareExploit/7.5x/BackupDB/backup.js
+
+./exploits/FirmwareExploit/7.5x/RestoreDB/index.html
+./exploits/FirmwareExploit/7.5x/RestoreDB/restore.js
 
 
-./exploits/FirmwareExploit/7.50/750.js
-./exploits/FirmwareExploit/7.50/blob.js
-./exploits/FirmwareExploit/7.50/int64.js
-./exploits/FirmwareExploit/7.50/ps4.js
-./exploits/FirmwareExploit/7.50/utils.js
-./exploits/FirmwareExploit/7.50/mira750/c-code.js
-./exploits/FirmwareExploit/7.50/mira750/mira.js
-./exploits/FirmwareExploit/7.50/mira750/mira2.js
-./exploits/FirmwareExploit/7.50/jb750/c-code.js
+./exploits/FirmwareExploit/7.5x/750.js
+./exploits/FirmwareExploit/7.5x/blob.js
+./exploits/FirmwareExploit/7.5x/int64.js
+./exploits/FirmwareExploit/7.5x/ps4.js
+./exploits/FirmwareExploit/7.5x/utils.js
+./exploits/FirmwareExploit/7.5x/mira750/c-code.js
+./exploits/FirmwareExploit/7.5x/mira750/mira.js
+./exploits/FirmwareExploit/7.5x/mira750/mira2.js
+./exploits/FirmwareExploit/7.5x/jb750/c-code.js
 
 
 
