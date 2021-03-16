@@ -2,6 +2,8 @@ CACHE MANIFEST
 # v4 
 # :10:34:02,23 
 
+CACHE:
+
 Cache.html
 cache.manifest
 index.html
@@ -261,3 +263,6 @@ exploits\FirmwareExploit\7.5x\ToDex\index.html
 exploits\FirmwareExploit\7.5x\ToDex\todex.js
 js\script.js
 Ressources\Wallpaper.gif
+
+FALLBACK:
+index.html
