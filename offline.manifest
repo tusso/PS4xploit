@@ -232,8 +232,6 @@ exploits\FirmwareExploit\7.5x\BackupDB\backup.js
 exploits\FirmwareExploit\7.5x\BackupDB\index.html
 exploits\FirmwareExploit\7.5x\BinLoader\index.html
 exploits\FirmwareExploit\7.5x\BinLoader\netcat.js
-exploits\FirmwareExploit\7.5x\DisableASLR\disable-aslr.js
-exploits\FirmwareExploit\7.5x\DisableASLR\index.html
 exploits\FirmwareExploit\7.5x\DisableUpdates\disable-updates.js
 exploits\FirmwareExploit\7.5x\DisableUpdates\index.html
 exploits\FirmwareExploit\7.5x\EnableBrowser\Enable-Browser.js
@@ -266,7 +264,6 @@ exploits\FirmwareExploit\7.5x\RifRenamer\index.html
 exploits\FirmwareExploit\7.5x\RifRenamer\rif-renamer.js
 exploits\FirmwareExploit\7.5x\ToDex\index.html
 exploits\FirmwareExploit\7.5x\ToDex\todex.js
-exploits\FirmwareExploit\7.5x\ToDex\todexold.js
 js\script.js
 Ressources\Wallpaper.gif
 
