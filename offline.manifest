@@ -40,9 +40,6 @@ exploits\FirmwareExploit\7.5x\Kernel-Clock\kernel-clock.js
 exploits\FirmwareExploit\7.5x\Mira-7.50\index.html
 exploits\FirmwareExploit\7.5x\Mira-7.50\Mira750.js
 exploits\FirmwareExploit\7.5x\Mira-7.50\MiraLoader750.js
-exploits\FirmwareExploit\7.5x\Mira-7.51\index.html
-exploits\FirmwareExploit\7.5x\Mira-7.51\Mira751.js
-exploits\FirmwareExploit\7.5x\Mira-7.51\MiraLoader751.js
 exploits\FirmwareExploit\7.5x\Mira-7.55\index.html
 exploits\FirmwareExploit\7.5x\Mira-7.55\Mira.js
 exploits\FirmwareExploit\7.5x\mira750\c-code.js
@@ -56,7 +53,6 @@ exploits\FirmwareExploit\7.5x\RifRenamer\index.html
 exploits\FirmwareExploit\7.5x\RifRenamer\rif-renamer.js
 exploits\FirmwareExploit\7.5x\ToDex\index.html
 exploits\FirmwareExploit\7.5x\ToDex\todex.js
-exploits\FirmwareExploit\7.5x\ToDex\todexold.js
 js\script.js
 
 FALLBACK: 
