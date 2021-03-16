@@ -8,10 +8,17 @@ echo CACHE MANIFEST > test0.txt
 echo # v4 >> test0.txt
 echo # %mydate%:%mytime% >> test0.txt
 echo. >> test0.txt
+echo. >> test0.txt
+echo CACHE: >> test0.txt
+echo. >> test0.txt
 
 set LOC=%~dp0
 
 dir /B /S /A:-D >> test0.txt
+
+echo. >> test0.txt
+echo FALLBACK: >> test0.txt
+echo index.html >> test0.txt
 
 findstr /v "media .bat .exe .mp4 .git .py offline.manifest test0.txt" test0.txt > test.txt
 del test0.txt
