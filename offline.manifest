@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 16/03/2021-22:25:08,35 
+# 16/03/2021-22:27:12,48 
 
 
 CACHE: 
@@ -266,6 +266,7 @@ exploits\FirmwareExploit\7.5x\RifRenamer\index.html
 exploits\FirmwareExploit\7.5x\RifRenamer\rif-renamer.js
 exploits\FirmwareExploit\7.5x\ToDex\index.html
 exploits\FirmwareExploit\7.5x\ToDex\todex.js
+exploits\FirmwareExploit\7.5x\ToDex\todexold.js
 js\script.js
 Ressources\Wallpaper.gif
 
