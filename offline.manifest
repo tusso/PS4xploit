@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 17/03/2021- 8:54:51,04 
+# 17/03/2021- 9:02:19,82 
 
 
 CACHE: 
@@ -10,7 +10,6 @@ cache.manifest
 index.html
 css\index.css
 exploits\FirmwareExploit\7.5x\750.js
-exploits\FirmwareExploit\7.5x\750bak.js
 exploits\FirmwareExploit\7.5x\blob.js
 exploits\FirmwareExploit\7.5x\int64.js
 exploits\FirmwareExploit\7.5x\ps4.js
@@ -38,6 +37,7 @@ exploits\FirmwareExploit\7.5x\FTP\index.html
 exploits\FirmwareExploit\7.5x\HistoryBlocker\history-blocker.js
 exploits\FirmwareExploit\7.5x\HistoryBlocker\index.html
 exploits\FirmwareExploit\7.5x\jb750\c-code.js
+exploits\FirmwareExploit\7.5x\jb750\c-codebak.js
 exploits\FirmwareExploit\7.5x\Kernel-Clock\index.html
 exploits\FirmwareExploit\7.5x\Kernel-Clock\kernel-clock.js
 exploits\FirmwareExploit\7.5x\Mira-7.50\index.html
