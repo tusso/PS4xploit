@@ -1,10 +1,76 @@
 CACHE MANIFEST 
 # v4 
-# 17/03/2021- 9:10:33,37 
+# 17/03/2021- 9:15:39,11 
 
 
 CACHE: 
 
+exploits\FirmwareExploit\5.05\Mira+HEN\expl.js
+exploits\FirmwareExploit\5.05\Mira+HEN\homebrew.js
+exploits\FirmwareExploit\5.05\Mira+HEN\kernel.js
+exploits\FirmwareExploit\5.05\Mira+HEN\mira.js
+exploits\FirmwareExploit\5.05\Mira+HEN\rop.js
+exploits\FirmwareExploit\5.05\Mira+HEN\syscalls.js
+exploits\FirmwareExploit\5.05\Mira+HEN\userland.js
+exploits\FirmwareExploit\5.05\Original\expl.js
+exploits\FirmwareExploit\5.05\Original\kernel.js
+exploits\FirmwareExploit\5.05\Original\ping.js
+exploits\FirmwareExploit\5.05\Original\rop.js
+exploits\FirmwareExploit\5.05\Original\syscalls.js
+exploits\FirmwareExploit\5.05\Original\userland.js
+exploits\FirmwareExploit\7.02\702.js
+exploits\FirmwareExploit\7.02\int64.js
+exploits\FirmwareExploit\7.02\ps4.js
+exploits\FirmwareExploit\7.02\utils.js
+exploits\FirmwareExploit\7.02\App-Dumper\Dumper.js
+exploits\FirmwareExploit\7.02\App2USB\App2USB.js
+exploits\FirmwareExploit\7.02\Backup\Backup.js
+exploits\FirmwareExploit\7.02\BinLoader-ChendoChap\int64.js
+exploits\FirmwareExploit\7.02\BinLoader-ChendoChap\ps4.js
+exploits\FirmwareExploit\7.02\BinLoader-ChendoChap\rop.js
+exploits\FirmwareExploit\7.02\BinLoader-ChendoChap\userland.js
+exploits\FirmwareExploit\7.02\BinLoader-ChendoChap\utils.js
+exploits\FirmwareExploit\7.02\CE-30391-6_Fix\ce-30391-6_fix.js
+exploits\FirmwareExploit\7.02\Disable-Updates\Disable-Updates.js
+exploits\FirmwareExploit\7.02\Enable-Browser\Enable-Browser.js
+exploits\FirmwareExploit\7.02\Enable-Updates\Enable-Updates.js
+exploits\FirmwareExploit\7.02\Fan-Speed\Payloads\50\50.js
+exploits\FirmwareExploit\7.02\Fan-Speed\Payloads\55\55.js
+exploits\FirmwareExploit\7.02\Fan-Speed\Payloads\60\60.js
+exploits\FirmwareExploit\7.02\Fan-Speed\Payloads\65\65.js
+exploits\FirmwareExploit\7.02\Fan-Speed\Payloads\70\70.js
+exploits\FirmwareExploit\7.02\Fan-Speed\Payloads\75\75.js
+exploits\FirmwareExploit\7.02\Fan-Speed\Payloads\80\80.js
+exploits\FirmwareExploit\7.02\Fan-Speed\Payloads\85\85.js
+exploits\FirmwareExploit\7.02\Fan-Speed\Payloads\90\90.js
+exploits\FirmwareExploit\7.02\FTP\FTP.js
+exploits\FirmwareExploit\7.02\HEN\HEN.js
+exploits\FirmwareExploit\7.02\HEN\HENnew.js
+exploits\FirmwareExploit\7.02\HEN-Beta\HEN.js
+exploits\FirmwareExploit\7.02\HEN-Beta\HENold.js
+exploits\FirmwareExploit\7.02\History-Blocker\History-Blocker.js
+exploits\FirmwareExploit\7.02\jb702\c-code.js
+exploits\FirmwareExploit\7.02\Kernel-Clock\Kernel-Clock.js
+exploits\FirmwareExploit\7.02\Linux-1GBVRAM\Linux1.js
+exploits\FirmwareExploit\7.02\Linux-1GBVRAM\Linux1old.js
+exploits\FirmwareExploit\7.02\Linux-3GBVRAM\Linux3.js
+exploits\FirmwareExploit\7.02\Linux-3GBVRAM\Linux3old.js
+exploits\FirmwareExploit\7.02\Mira\Mira.js
+exploits\FirmwareExploit\7.02\Mira\Miraold.js
+exploits\FirmwareExploit\7.02\Mira-Beta\mirabeta.js
+exploits\FirmwareExploit\7.02\mira702\c-code.js
+exploits\FirmwareExploit\7.02\mira702\mira.js
+exploits\FirmwareExploit\7.02\mira702\miraold.js
+exploits\FirmwareExploit\7.02\Module-Dumper\Dumper.js
+exploits\FirmwareExploit\7.02\PS4Debug\int64.js
+exploits\FirmwareExploit\7.02\PS4Debug\payload.js
+exploits\FirmwareExploit\7.02\PS4Debug\ps4.js
+exploits\FirmwareExploit\7.02\PS4Debug\rop.js
+exploits\FirmwareExploit\7.02\PS4Debug\userland.js
+exploits\FirmwareExploit\7.02\PS4Debug\utils.js
+exploits\FirmwareExploit\7.02\R.I.F-Renamer\rif-renamer.js
+exploits\FirmwareExploit\7.02\Restore\Restore.js
+exploits\FirmwareExploit\7.02\todex\todex.js
 exploits\FirmwareExploit\7.5x\750.js
 exploits\FirmwareExploit\7.5x\blob.js
 exploits\FirmwareExploit\7.5x\int64.js
@@ -23,6 +89,7 @@ exploits\FirmwareExploit\7.5x\FTP\ftp.js
 exploits\FirmwareExploit\7.5x\HistoryBlocker\history-blocker.js
 exploits\FirmwareExploit\7.5x\jb750\c-code.js
 exploits\FirmwareExploit\7.5x\jb750\c-codebak.js
+exploits\FirmwareExploit\7.5x\KernelClock\kernel-clock.js
 exploits\FirmwareExploit\7.5x\Mira-7.50\Mira750.js
 exploits\FirmwareExploit\7.5x\Mira-7.50\MiraLoader750.js
 exploits\FirmwareExploit\7.5x\Mira-7.51\Mira751.js
