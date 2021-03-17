@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 17/03/2021- 8:47:58,81 
+# 17/03/2021- 8:54:51,04 
 
 
 CACHE: 
@@ -31,6 +31,8 @@ exploits\FirmwareExploit\7.5x\EnableBrowser\Enable-Browser.js
 exploits\FirmwareExploit\7.5x\EnableBrowser\index.html
 exploits\FirmwareExploit\7.5x\EnableUpdates\enable-updates.js
 exploits\FirmwareExploit\7.5x\EnableUpdates\index.html
+exploits\FirmwareExploit\7.5x\ExitIDU\Exit-IDU.js
+exploits\FirmwareExploit\7.5x\ExitIDU\index.html
 exploits\FirmwareExploit\7.5x\FTP\ftp.js
 exploits\FirmwareExploit\7.5x\FTP\index.html
 exploits\FirmwareExploit\7.5x\HistoryBlocker\history-blocker.js
