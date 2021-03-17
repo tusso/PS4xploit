@@ -23,7 +23,6 @@ exploits\FirmwareExploit\7.5x\FTP\ftp.js
 exploits\FirmwareExploit\7.5x\HistoryBlocker\history-blocker.js
 exploits\FirmwareExploit\7.5x\jb750\c-code.js
 exploits\FirmwareExploit\7.5x\jb750\c-codebak.js
-exploits\FirmwareExploit\7.5x\Kernel-Clock\kernel-clock.js
 exploits\FirmwareExploit\7.5x\Mira-7.50\Mira750.js
 exploits\FirmwareExploit\7.5x\Mira-7.50\MiraLoader750.js
 exploits\FirmwareExploit\7.5x\Mira-7.51\Mira751.js
