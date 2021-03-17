@@ -1,11 +1,15 @@
 CACHE MANIFEST 
 # v4 
-# 17/03/2021-13:03:01,84 
+# 17/03/2021-13:15:05,48 
 
 
 CACHE: 
 
+Cache.html
+cache.manifest
 index.html
+offline.manifest
+css\index.css
 exploits\FirmwareExploit\5.05\App2USB\index.html
 exploits\FirmwareExploit\5.05\Backup\index.html
 exploits\FirmwareExploit\5.05\Disable-Updates\index.html
@@ -168,6 +172,8 @@ exploits\FirmwareExploit\7.5x\RifRenamer\rif-renamer.js
 exploits\FirmwareExploit\7.5x\ToDex\index.html
 exploits\FirmwareExploit\7.5x\ToDex\todex.js
 exploits\FirmwareExploit\7.5x\ToDex\todexold.js
+js\script.js
+Ressources\Wallpaper.gif
 
 FALLBACK: 
 index.html 
