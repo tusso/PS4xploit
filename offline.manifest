@@ -1,67 +1,45 @@
 CACHE MANIFEST 
 # v4 
-# 17/03/2021- 9:06
+# 17/03/2021- 9:10:33,37 
 
 
 CACHE: 
 
-Cache.html
-cache.manifest
-index.html
-css\index.css
 exploits\FirmwareExploit\7.5x\750.js
 exploits\FirmwareExploit\7.5x\blob.js
 exploits\FirmwareExploit\7.5x\int64.js
 exploits\FirmwareExploit\7.5x\ps4.js
 exploits\FirmwareExploit\7.5x\utils.js
 exploits\FirmwareExploit\7.5x\App2USB\app2usb.js
-exploits\FirmwareExploit\7.5x\App2USB\index.html
 exploits\FirmwareExploit\7.5x\AppDumper\dumper.js
-exploits\FirmwareExploit\7.5x\AppDumper\index.html
 exploits\FirmwareExploit\7.5x\BackupDB\backup.js
-exploits\FirmwareExploit\7.5x\BackupDB\index.html
-exploits\FirmwareExploit\7.5x\BinLoader\index.html
 exploits\FirmwareExploit\7.5x\BinLoader\netcat.js
 exploits\FirmwareExploit\7.5x\DisableASLR\disable-aslr.js
-exploits\FirmwareExploit\7.5x\DisableASLR\index.html
 exploits\FirmwareExploit\7.5x\DisableUpdates\disable-updates.js
-exploits\FirmwareExploit\7.5x\DisableUpdates\index.html
 exploits\FirmwareExploit\7.5x\EnableBrowser\Enable-Browser.js
-exploits\FirmwareExploit\7.5x\EnableBrowser\index.html
 exploits\FirmwareExploit\7.5x\EnableUpdates\enable-updates.js
-exploits\FirmwareExploit\7.5x\EnableUpdates\index.html
 exploits\FirmwareExploit\7.5x\ExitIDU\Exit-IDU.js
-exploits\FirmwareExploit\7.5x\ExitIDU\index.html
 exploits\FirmwareExploit\7.5x\FTP\ftp.js
-exploits\FirmwareExploit\7.5x\FTP\index.html
 exploits\FirmwareExploit\7.5x\HistoryBlocker\history-blocker.js
-exploits\FirmwareExploit\7.5x\HistoryBlocker\index.html
 exploits\FirmwareExploit\7.5x\jb750\c-code.js
-exploits\FirmwareExploit\7.5x\Kernel-Clock\index.html
+exploits\FirmwareExploit\7.5x\jb750\c-codebak.js
 exploits\FirmwareExploit\7.5x\Kernel-Clock\kernel-clock.js
-exploits\FirmwareExploit\7.5x\Mira-7.50\index.html
 exploits\FirmwareExploit\7.5x\Mira-7.50\Mira750.js
 exploits\FirmwareExploit\7.5x\Mira-7.50\MiraLoader750.js
-exploits\FirmwareExploit\7.5x\Mira-7.51\index.html
 exploits\FirmwareExploit\7.5x\Mira-7.51\Mira751.js
 exploits\FirmwareExploit\7.5x\Mira-7.51\MiraLoader751.js
-exploits\FirmwareExploit\7.5x\Mira-7.55\index.html
 exploits\FirmwareExploit\7.5x\Mira-7.55\Mira.js
+exploits\FirmwareExploit\7.5x\Mira-7.55\Miraold.js
 exploits\FirmwareExploit\7.5x\mira750\c-code.js
 exploits\FirmwareExploit\7.5x\mira750\mira.js
 exploits\FirmwareExploit\7.5x\mira750\mira2.js
 exploits\FirmwareExploit\7.5x\ModuleDumper\dumper.js
-exploits\FirmwareExploit\7.5x\ModuleDumper\index.html
-exploits\FirmwareExploit\7.5x\RestoreDB\index.html
 exploits\FirmwareExploit\7.5x\RestoreDB\restore.js
-exploits\FirmwareExploit\7.5x\RifRenamer\index.html
 exploits\FirmwareExploit\7.5x\RifRenamer\rif-renamer.js
-exploits\FirmwareExploit\7.5x\ToDex\index.html
 exploits\FirmwareExploit\7.5x\ToDex\todex.js
-js\script.js
+exploits\FirmwareExploit\7.5x\ToDex\todexold.js
 
 FALLBACK: 
-index.html 
 
 NETWORK: 
 * 
