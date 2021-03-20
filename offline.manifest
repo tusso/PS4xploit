@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 20/03/2021-19:25:13,80 
+# 20/03/2021-22:35:03,22 
 
 
 CACHE: 
@@ -163,6 +163,8 @@ exploits\FirmwareExploit\7.5x\Mira-7.5x\mira-750.js
 exploits\FirmwareExploit\7.5x\Mira-7.5x\mira-751.js
 exploits\FirmwareExploit\7.5x\Mira-7.5x\mira-755.js
 exploits\FirmwareExploit\7.5x\Mira-7.5x\netcat.js
+exploits\FirmwareExploit\7.5x\Mira-Beta\index.html
+exploits\FirmwareExploit\7.5x\Mira-Beta\mira-beta.js
 exploits\FirmwareExploit\7.5x\mira750\c-code.js
 exploits\FirmwareExploit\7.5x\mira750\c-codeold.js
 exploits\FirmwareExploit\7.5x\mira750\loader-750.js
