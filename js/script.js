@@ -71,7 +71,7 @@ function getFirmwares() {
   } else if (currentFirmware == "7.50") {
     window.location.href = ".#" + "7.5x";
   } else if (currentFirmware == "9.99") {
-    window.alert("You are in spoof mod, please a firmware manually");
+    window.alert("You are in spoof mod, please choose a firmware manually");
   } else {
     window.location.href = ".#" + currentFirmware;
   }
