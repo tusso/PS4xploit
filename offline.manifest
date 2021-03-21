@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 21/03/2021-14:23:11,12 
+# 21/03/2021-15:59:28,13 
 
 
 CACHE: 
@@ -118,6 +118,8 @@ exploits\FirmwareExploit\7.02\R.I.F-Renamer\index.html
 exploits\FirmwareExploit\7.02\R.I.F-Renamer\rif-renamer.js
 exploits\FirmwareExploit\7.02\Restore\index.html
 exploits\FirmwareExploit\7.02\Restore\Restore.js
+exploits\FirmwareExploit\7.02\spoof\index.html
+exploits\FirmwareExploit\7.02\spoof\spoof.js
 exploits\FirmwareExploit\7.02\todex\index.html
 exploits\FirmwareExploit\7.02\todex\todex.js
 exploits\FirmwareExploit\7.5x\750.js
