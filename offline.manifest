@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 21/03/2021-20:00:58,30 
+# 21/03/2021-20:45:27,68 
 
 
 CACHE: 
@@ -16,6 +16,7 @@ exploits\FirmwareExploit\5.05\Disable-Updates\index.html
 exploits\FirmwareExploit\5.05\Dumper\index.html
 exploits\FirmwareExploit\5.05\Enable-Updates\index.html
 exploits\FirmwareExploit\5.05\FTP\index.html
+exploits\FirmwareExploit\5.05\GoldHEN\index.html
 exploits\FirmwareExploit\5.05\HEN\index.html
 exploits\FirmwareExploit\5.05\Linux-Loader\index.html
 exploits\FirmwareExploit\5.05\Mira+HEN\expl.js
