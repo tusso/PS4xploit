@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 20/03/2021-23:05:23,74 
+# 21/03/2021-14:14:04,01 
 
 
 CACHE: 
@@ -174,6 +174,8 @@ exploits\FirmwareExploit\7.5x\mira750\mira.js
 exploits\FirmwareExploit\7.5x\mira750\mira2.js
 exploits\FirmwareExploit\7.5x\ModuleDumper\dumper.js
 exploits\FirmwareExploit\7.5x\ModuleDumper\index.html
+exploits\FirmwareExploit\7.5x\PS4Debug\index.html
+exploits\FirmwareExploit\7.5x\PS4Debug\ps4debug.js
 exploits\FirmwareExploit\7.5x\RestoreDB\index.html
 exploits\FirmwareExploit\7.5x\RestoreDB\restore.js
 exploits\FirmwareExploit\7.5x\RifRenamer\index.html
