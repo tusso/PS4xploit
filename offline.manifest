@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 21/03/2021-16:22:44,37 
+# 21/03/2021-19:37:48,13 
 
 
 CACHE: 
@@ -80,6 +80,8 @@ exploits\FirmwareExploit\7.02\Fan-Speed\Payloads\90\90.js
 exploits\FirmwareExploit\7.02\Fan-Speed\Payloads\90\index.html
 exploits\FirmwareExploit\7.02\FTP\FTP.js
 exploits\FirmwareExploit\7.02\FTP\index.html
+exploits\FirmwareExploit\7.02\GoldHEN\goldhen.js
+exploits\FirmwareExploit\7.02\GoldHEN\index.html
 exploits\FirmwareExploit\7.02\HEN\HEN.js
 exploits\FirmwareExploit\7.02\HEN\HENnew.js
 exploits\FirmwareExploit\7.02\HEN\index.html
@@ -123,7 +125,6 @@ exploits\FirmwareExploit\7.02\spoof\spoof.js
 exploits\FirmwareExploit\7.02\todex\index.html
 exploits\FirmwareExploit\7.02\todex\todex.js
 exploits\FirmwareExploit\7.5x\750.js
-exploits\FirmwareExploit\7.5x\blob.js
 exploits\FirmwareExploit\7.5x\int64.js
 exploits\FirmwareExploit\7.5x\ps4.js
 exploits\FirmwareExploit\7.5x\utils.js
@@ -147,6 +148,8 @@ exploits\FirmwareExploit\7.5x\ExitIDU\Exit-IDU.js
 exploits\FirmwareExploit\7.5x\ExitIDU\index.html
 exploits\FirmwareExploit\7.5x\FTP\ftp.js
 exploits\FirmwareExploit\7.5x\FTP\index.html
+exploits\FirmwareExploit\7.5x\GoldHEN\goldhen.js
+exploits\FirmwareExploit\7.5x\GoldHEN\index.html
 exploits\FirmwareExploit\7.5x\HistoryBlocker\history-blocker.js
 exploits\FirmwareExploit\7.5x\HistoryBlocker\index.html
 exploits\FirmwareExploit\7.5x\jb750\c-code.js
