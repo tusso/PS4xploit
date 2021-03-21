@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 21/03/2021-20:45:27,68 
+# 21/03/2021-21:48:33,64 
 
 
 CACHE: 
@@ -35,6 +35,53 @@ exploits\FirmwareExploit\5.05\Original\rop.js
 exploits\FirmwareExploit\5.05\Original\syscalls.js
 exploits\FirmwareExploit\5.05\Original\userland.js
 exploits\FirmwareExploit\5.05\reactPSPlus\index.html
+exploits\FirmwareExploit\6.72\App2USB\index.html
+exploits\FirmwareExploit\6.72\AppDumper\index.html
+exploits\FirmwareExploit\6.72\Backup\index.html
+exploits\FirmwareExploit\6.72\BinLoader\index.html
+exploits\FirmwareExploit\6.72\common\c-code.js
+exploits\FirmwareExploit\6.72\common\exploit.js
+exploits\FirmwareExploit\6.72\common\helpers.js
+exploits\FirmwareExploit\6.72\common\jailbreak.js
+exploits\FirmwareExploit\6.72\common\loader.js
+exploits\FirmwareExploit\6.72\common\malloc.js
+exploits\FirmwareExploit\6.72\common\rop.js
+exploits\FirmwareExploit\6.72\common\syscalls.js
+exploits\FirmwareExploit\6.72\common\syscalls2.js
+exploits\FirmwareExploit\6.72\DisableUpdate\index.html
+exploits\FirmwareExploit\6.72\EnableUpdate\index.html
+exploits\FirmwareExploit\6.72\FTP\index.html
+exploits\FirmwareExploit\6.72\GoldHEN\index.html
+exploits\FirmwareExploit\6.72\HEN\index.html
+exploits\FirmwareExploit\6.72\HistoryBlocker\index.html
+exploits\FirmwareExploit\6.72\js\App2USB.js
+exploits\FirmwareExploit\6.72\js\Backup.js
+exploits\FirmwareExploit\6.72\js\DisableUpdate.js
+exploits\FirmwareExploit\6.72\js\Dumper.js
+exploits\FirmwareExploit\6.72\js\EnableUpdate.js
+exploits\FirmwareExploit\6.72\js\Fan-Threshold-60.js
+exploits\FirmwareExploit\6.72\js\Fan-Threshold-70.js
+exploits\FirmwareExploit\6.72\js\FTP.js
+exploits\FirmwareExploit\6.72\js\goldhen.js
+exploits\FirmwareExploit\6.72\js\HEN.js
+exploits\FirmwareExploit\6.72\js\HistoryBlocker.js
+exploits\FirmwareExploit\6.72\js\KernelClock.js
+exploits\FirmwareExploit\6.72\js\LinuxLoader.js
+exploits\FirmwareExploit\6.72\js\LinuxLoaderBaikal.js
+exploits\FirmwareExploit\6.72\js\mira.js
+exploits\FirmwareExploit\6.72\js\miranohb.js
+exploits\FirmwareExploit\6.72\js\ReactPS+.js
+exploits\FirmwareExploit\6.72\js\Restore.js
+exploits\FirmwareExploit\6.72\js\ToDex.js
+exploits\FirmwareExploit\6.72\js\WebRTE.js
+exploits\FirmwareExploit\6.72\LinuxLoader\index.html
+exploits\FirmwareExploit\6.72\LinuxLoaderBaikal\index.html
+exploits\FirmwareExploit\6.72\Mira\index.html
+exploits\FirmwareExploit\6.72\MiranoHB\index.html
+exploits\FirmwareExploit\6.72\ReactPS+\index.html
+exploits\FirmwareExploit\6.72\Restore\index.html
+exploits\FirmwareExploit\6.72\ToDex\index.html
+exploits\FirmwareExploit\6.72\WebRTE\index.html
 exploits\FirmwareExploit\7.02\702.js
 exploits\FirmwareExploit\7.02\int64.js
 exploits\FirmwareExploit\7.02\ps4.js
