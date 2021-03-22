@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 22/03/2021-11:15:28,52 
+# 22/03/2021-11:18:15,68 
 
 
 CACHE: 
@@ -208,14 +208,14 @@ exploits\FirmwareExploit\7.5x\KernelClock\index.html
 exploits\FirmwareExploit\7.5x\KernelClock\kernel-clock.js
 exploits\FirmwareExploit\7.5x\KernelDumper\index.html
 exploits\FirmwareExploit\7.5x\KernelDumper\kernel-dumper.js
-exploits\FirmwareExploit\7.5x\Mira-7.5x\index.html
-exploits\FirmwareExploit\7.5x\Mira-7.5x\jb.js
-exploits\FirmwareExploit\7.5x\Mira-7.5x\loader-750.js
-exploits\FirmwareExploit\7.5x\Mira-7.5x\loader-751.js
-exploits\FirmwareExploit\7.5x\Mira-7.5x\loader-755.js
-exploits\FirmwareExploit\7.5x\Mira-7.5x\mira-750.js
-exploits\FirmwareExploit\7.5x\Mira-7.5x\mira-751.js
-exploits\FirmwareExploit\7.5x\Mira-7.5x\mira-755.js
+exploits\FirmwareExploit\7.5x\Mira\index.html
+exploits\FirmwareExploit\7.5x\Mira\jb.js
+exploits\FirmwareExploit\7.5x\Mira\loader-750.js
+exploits\FirmwareExploit\7.5x\Mira\loader-751.js
+exploits\FirmwareExploit\7.5x\Mira\loader-755.js
+exploits\FirmwareExploit\7.5x\Mira\mira-750.js
+exploits\FirmwareExploit\7.5x\Mira\mira-751.js
+exploits\FirmwareExploit\7.5x\Mira\mira-755.js
 exploits\FirmwareExploit\7.5x\Mira-Beta\index.html
 exploits\FirmwareExploit\7.5x\Mira-Beta\mira-beta.js
 exploits\FirmwareExploit\7.5x\mira750\c-code.js
