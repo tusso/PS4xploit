@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 22/03/2021-11:19:25,20 
+# 22/03/2021-13:54:53,62 
 
 
 CACHE: 
@@ -10,6 +10,7 @@ cache.manifest
 index.html
 offline.manifest
 css\index.css
+exploits\FirmwareExploit\5.05\OrbisAFR.bin
 exploits\FirmwareExploit\5.05\App2USB\index.html
 exploits\FirmwareExploit\5.05\Backup\index.html
 exploits\FirmwareExploit\5.05\Disable-Updates\index.html
@@ -27,6 +28,7 @@ exploits\FirmwareExploit\5.05\Mira+HEN\mira.js
 exploits\FirmwareExploit\5.05\Mira+HEN\rop.js
 exploits\FirmwareExploit\5.05\Mira+HEN\syscalls.js
 exploits\FirmwareExploit\5.05\Mira+HEN\userland.js
+exploits\FirmwareExploit\5.05\OrbisAFR\index.html
 exploits\FirmwareExploit\5.05\Original\expl.js
 exploits\FirmwareExploit\5.05\Original\index.html
 exploits\FirmwareExploit\5.05\Original\kernel.js
@@ -203,7 +205,6 @@ exploits\FirmwareExploit\7.5x\GoldHEN\index.html
 exploits\FirmwareExploit\7.5x\HistoryBlocker\history-blocker.js
 exploits\FirmwareExploit\7.5x\HistoryBlocker\index.html
 exploits\FirmwareExploit\7.5x\jb750\c-code.js
-exploits\FirmwareExploit\7.5x\jb750\c-codebak.js
 exploits\FirmwareExploit\7.5x\KernelClock\index.html
 exploits\FirmwareExploit\7.5x\KernelClock\kernel-clock.js
 exploits\FirmwareExploit\7.5x\KernelDumper\index.html
@@ -216,10 +217,7 @@ exploits\FirmwareExploit\7.5x\Mira\loader-755.js
 exploits\FirmwareExploit\7.5x\Mira\mira-750.js
 exploits\FirmwareExploit\7.5x\Mira\mira-751.js
 exploits\FirmwareExploit\7.5x\Mira\mira-755.js
-exploits\FirmwareExploit\7.5x\Mira-Beta\index.html
-exploits\FirmwareExploit\7.5x\Mira-Beta\mira-beta.js
 exploits\FirmwareExploit\7.5x\mira750\c-code.js
-exploits\FirmwareExploit\7.5x\mira750\c-codeold.js
 exploits\FirmwareExploit\7.5x\mira750\loader-750.js
 exploits\FirmwareExploit\7.5x\mira750\loader-751.js
 exploits\FirmwareExploit\7.5x\mira750\loader-755.js
@@ -227,6 +225,7 @@ exploits\FirmwareExploit\7.5x\mira750\mira.js
 exploits\FirmwareExploit\7.5x\mira750\mira2.js
 exploits\FirmwareExploit\7.5x\ModuleDumper\dumper.js
 exploits\FirmwareExploit\7.5x\ModuleDumper\index.html
+exploits\FirmwareExploit\7.5x\Netcat\index.html
 exploits\FirmwareExploit\7.5x\PS4Debug\index.html
 exploits\FirmwareExploit\7.5x\PS4Debug\ps4debug.js
 exploits\FirmwareExploit\7.5x\RestoreDB\index.html
