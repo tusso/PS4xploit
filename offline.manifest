@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 21/03/2021-23:24:19,02 
+# 22/03/2021-11:15:28,52 
 
 
 CACHE: 
@@ -196,7 +196,9 @@ exploits\FirmwareExploit\7.5x\ExitIDU\Exit-IDU.js
 exploits\FirmwareExploit\7.5x\ExitIDU\index.html
 exploits\FirmwareExploit\7.5x\FTP\ftp.js
 exploits\FirmwareExploit\7.5x\FTP\index.html
-exploits\FirmwareExploit\7.5x\GoldHEN\goldhen.js
+exploits\FirmwareExploit\7.5x\GoldHEN\goldhen_750.js
+exploits\FirmwareExploit\7.5x\GoldHEN\goldhen_751.js
+exploits\FirmwareExploit\7.5x\GoldHEN\goldhen_755.js
 exploits\FirmwareExploit\7.5x\GoldHEN\index.html
 exploits\FirmwareExploit\7.5x\HistoryBlocker\history-blocker.js
 exploits\FirmwareExploit\7.5x\HistoryBlocker\index.html
@@ -233,6 +235,8 @@ exploits\FirmwareExploit\7.5x\RifRenamer\index.html
 exploits\FirmwareExploit\7.5x\RifRenamer\rif-renamer.js
 exploits\FirmwareExploit\7.5x\ToDex\index.html
 exploits\FirmwareExploit\7.5x\ToDex\todex.js
+exploits\FirmwareExploit\7.5x\WebRTE\index.html
+exploits\FirmwareExploit\7.5x\WebRTE\WebRTE.js
 js\script.js
 Ressources\Wallpaper.gif
 
