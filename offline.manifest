@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 09/04/2021-12:38:51,97 
+# 14/04/2021-12:36:03,84 
 
 
 CACHE: 
@@ -207,6 +207,9 @@ exploits\Firmware\7.5x\RifRenamer\index.html
 exploits\Firmware\7.5x\RifRenamer\rif-renamer.js
 exploits\Firmware\7.5x\ToDex\index.html
 exploits\Firmware\7.5x\ToDex\todex.js
+exploits\Firmware\7.5x\Web-Activator\Activator.js
+exploits\Firmware\7.5x\Web-Activator\index.html
+exploits\Firmware\7.5x\Web-Activator\Set.js
 exploits\Firmware\7.5x\WebRTE\index.html
 exploits\Firmware\7.5x\WebRTE\WebRTE.js
 js\index.js
