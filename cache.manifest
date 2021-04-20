@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4
-# 20/04/2021-13:49
+# 20/04/2021-16:04
 
 
 CACHE:
@@ -9,6 +9,7 @@ index.html
 js/script.js
 css/index.css
 Ressources/Background.jpg
+Ressources/PokerFace.png
 offline.manifest
 cache.manifest
 
