@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 24/04/2021-16:31:12,88 
+# 25/04/2021-15:24:30,65 
 
 
 CACHE: 
@@ -55,6 +55,7 @@ exploits\Firmware\6.72\FTP\index.html
 exploits\Firmware\6.72\GoldHEN\index.html
 exploits\Firmware\6.72\HEN\index.html
 exploits\Firmware\6.72\HistoryBlocker\index.html
+exploits\Firmware\6.72\js\Activator.js
 exploits\Firmware\6.72\js\App2USB.js
 exploits\Firmware\6.72\js\Backup.js
 exploits\Firmware\6.72\js\DisableUpdate.js
@@ -67,23 +68,25 @@ exploits\Firmware\6.72\js\goldhen.js
 exploits\Firmware\6.72\js\HEN.js
 exploits\Firmware\6.72\js\HistoryBlocker.js
 exploits\Firmware\6.72\js\KernelClock.js
+exploits\Firmware\6.72\js\LinuxLoader-4gb.js
 exploits\Firmware\6.72\js\LinuxLoader.js
-exploits\Firmware\6.72\js\LinuxLoaderBaikal.js
 exploits\Firmware\6.72\js\mira.js
 exploits\Firmware\6.72\js\miranohb.js
 exploits\Firmware\6.72\js\ps4debug.js
 exploits\Firmware\6.72\js\ReactPS+.js
 exploits\Firmware\6.72\js\Restore.js
+exploits\Firmware\6.72\js\Set.js
 exploits\Firmware\6.72\js\ToDex.js
 exploits\Firmware\6.72\js\WebRTE.js
-exploits\Firmware\6.72\LinuxLoader\index.html
-exploits\Firmware\6.72\LinuxLoaderBaikal\index.html
+exploits\Firmware\6.72\LinuxLoader-1GBVRAM\index.html
+exploits\Firmware\6.72\LinuxLoader-4GBVRAM\index.html
 exploits\Firmware\6.72\Mira\index.html
 exploits\Firmware\6.72\MiranoHB\index.html
 exploits\Firmware\6.72\PS4Debug\index.html
 exploits\Firmware\6.72\ReactPS+\index.html
 exploits\Firmware\6.72\Restore\index.html
 exploits\Firmware\6.72\ToDex\index.html
+exploits\Firmware\6.72\Web-Activator\index.html
 exploits\Firmware\6.72\WebRTE\index.html
 exploits\Firmware\7.02\702.js
 exploits\Firmware\7.02\int64.js
@@ -120,10 +123,10 @@ exploits\Firmware\7.02\Kernel-Clock\index.html
 exploits\Firmware\7.02\Kernel-Clock\Kernel-Clock.js
 exploits\Firmware\7.02\Linux-1GBVRAM\index.html
 exploits\Firmware\7.02\Linux-1GBVRAM\Linux1.js
-exploits\Firmware\7.02\Linux-1GBVRAM\Linux1old.js
-exploits\Firmware\7.02\Linux-3GBVRAM\index.html
-exploits\Firmware\7.02\Linux-3GBVRAM\Linux3.js
-exploits\Firmware\7.02\Linux-3GBVRAM\Linux3old.js
+exploits\Firmware\7.02\Linux-1GBVRAM\Linux1Old.js
+exploits\Firmware\7.02\Linux-4GBVRAM\index.html
+exploits\Firmware\7.02\Linux-4GBVRAM\Linux3Old.js
+exploits\Firmware\7.02\Linux-4GBVRAM\Linux4.js
 exploits\Firmware\7.02\Mira\index.html
 exploits\Firmware\7.02\Mira\Mira.js
 exploits\Firmware\7.02\Mira\Miraold.js
@@ -147,6 +150,9 @@ exploits\Firmware\7.02\Restore\index.html
 exploits\Firmware\7.02\Restore\Restore.js
 exploits\Firmware\7.02\todex\index.html
 exploits\Firmware\7.02\todex\todex.js
+exploits\Firmware\7.02\Web-Activator\Activator.js
+exploits\Firmware\7.02\Web-Activator\index.html
+exploits\Firmware\7.02\Web-Activator\Set.js
 exploits\Firmware\7.5x\750.js
 exploits\Firmware\7.5x\int64.js
 exploits\Firmware\7.5x\ps4.js
@@ -171,8 +177,8 @@ exploits\Firmware\7.5x\ExitIDU\Exit-IDU.js
 exploits\Firmware\7.5x\ExitIDU\index.html
 exploits\Firmware\7.5x\FTP\ftp.js
 exploits\Firmware\7.5x\FTP\index.html
-exploits\Firmware\7.5x\GoldHEN_1.0(7.55)\goldhen_755.js
-exploits\Firmware\7.5x\GoldHEN_1.0(7.55)\index.html
+exploits\Firmware\7.5x\GoldHEN_1.0\goldhen_755.js
+exploits\Firmware\7.5x\GoldHEN_1.0\index.html
 exploits\Firmware\7.5x\GoldHEN_1.1\goldhen_750.js
 exploits\Firmware\7.5x\GoldHEN_1.1\goldhen_751.js
 exploits\Firmware\7.5x\GoldHEN_1.1\goldhen_755.js
@@ -186,8 +192,8 @@ exploits\Firmware\7.5x\KernelDumper\index.html
 exploits\Firmware\7.5x\KernelDumper\kernel-dumper.js
 exploits\Firmware\7.5x\LinuxLoader-1GB\index.html
 exploits\Firmware\7.5x\LinuxLoader-1GB\LinuxLoader.js
-exploits\Firmware\7.5x\LinuxLoader-3GB\index.html
-exploits\Firmware\7.5x\LinuxLoader-3GB\LinuxLoader.js
+exploits\Firmware\7.5x\LinuxLoader-4GB\index.html
+exploits\Firmware\7.5x\LinuxLoader-4GB\LinuxLoader.js
 exploits\Firmware\7.5x\Mira\index.html
 exploits\Firmware\7.5x\Mira\jb.js
 exploits\Firmware\7.5x\Mira\loader-750.js
