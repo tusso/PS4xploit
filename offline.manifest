@@ -1,6 +1,6 @@
 CACHE MANIFEST 
 # v4 
-# 29/04/2021-23:19:49,84 
+# 30/04/2021-14:05:33,81 
 
 
 CACHE: 
@@ -81,7 +81,6 @@ exploits\Firmware\6.72\LinuxLoader-4GBVRAM\index.html
 exploits\Firmware\6.72\Mira\index.html
 exploits\Firmware\6.72\MiranoHB\index.html
 exploits\Firmware\6.72\PS4Debug\index.html
-exploits\Firmware\6.72\ReactPS+\index.html
 exploits\Firmware\6.72\Restore\index.html
 exploits\Firmware\6.72\ToDex\index.html
 exploits\Firmware\6.72\Web-Activator\index.html
