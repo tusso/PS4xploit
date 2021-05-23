@@ -40,8 +40,8 @@ function resetPage() {
 }
 
 function getFirmwares() {
-  var ua = navigator.userAgent;
-  var currentFirmware = ua.substring(ua.indexOf("5.0 (") + 19, ua.indexOf(") Apple"));
+  var currentFirmware = navigator.userAgent.substring(navigator.userAgent.indexOf('5.0 ('), navigator.userAgent.indexOf(') Apple'));
+  currentFirmware = currentFirmware.replace('5.0 (PlayStation 4 ', '');
   var firmwares = "";
   x = 0;
   for (var i = 0, len = data["Choose Firmware"].length; i < len; i++) {
